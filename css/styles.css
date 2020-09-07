@@ -1,0 +1,71 @@
+body{
+  background-image: url(../img/background-image.jpg);
+}
+
+div{
+  width: 70%;
+  margin: auto;
+}
+
+.bianco{
+  color: white;
+}
+
+img{
+  width: 150px;
+  height: 100px;
+  vertical-align: middle;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+
+h1{
+  display: inline-block;
+}
+
+hr{
+  color: white;
+}
+h2 span{
+  text-align: center;
+  line-height:40px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: orange;
+}
+
+.letta{
+  height: 25px;
+  background-color: white;
+  border: solid black 1px;
+}
+
+.non-letta{
+  height: 25px;
+  background-color: lightgrey;
+  border: solid black 1px;
+}
+
+.grassetto{
+  font-weight: 700;
+  font-style: normal;
+}
+
+.testo-chiaro{
+  color: grey;
+}
+
+footer{
+  text-align: center;
+}
+
+p{
+  font-style: italic;
+}
+
+#finale{
+  font-size: 25px;
+}
